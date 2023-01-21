@@ -1,4 +1,3 @@
-/*
 https://solidity-by-example.org/sending-ether/
 https://solidity-by-example.org/payable/
 
@@ -46,4 +45,3 @@ There is still no way to exploit it by overflow
 
 
 
-*/
